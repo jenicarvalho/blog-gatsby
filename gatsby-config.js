@@ -3,6 +3,7 @@ module.exports = {
     title: `Blog sobre desenvolvimento front end`,
     description: `Aqui trataremos sobre assuntos técnicos e comportamentais do mundo do desenvolvimento`,
     author: `@jenicarvalho`,
+    position: 'Front end'
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
